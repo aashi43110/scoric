@@ -1,0 +1,109 @@
+{
+  "rubric": {
+    "Contextualization": {
+      "points": 20,
+      "criteria": [
+        {
+          "description": "Establishes a strong historical context including time, place, and broader historical events or developments, with a clear link to the prompt (e.g., 'which allowed for', 'which led to').",
+          "coefficient": 1.0
+        },
+        {
+          "description": "Provides some historical context, but the link to broader historical events or developments is unclear or weak.",
+          "coefficient": 0.75
+        },
+        {
+          "description": "Attempts to provide historical context, but lacks clarity or relevance to the prompt.",
+          "coefficient": 0.5
+        },
+        {
+          "description": "Minimal or no historical context provided; context is unrelated to the prompt.",
+          "coefficient": 0.25
+        }
+      ]
+    },
+    "Thesis": {
+      "points": 20,
+      "criteria": [
+        {
+          "description": "Makes a historically defensible claim that directly answers all parts of the prompt using specific terms from the prompt, without merely restating the question.",
+          "coefficient": 1.0
+        },
+        {
+          "description": "Makes a claim that addresses the prompt, but may be overly vague or only partially answers the question.",
+          "coefficient": 0.75
+        },
+        {
+          "description": "Makes a general claim, but does not directly answer all parts of the prompt or uses vague terms.",
+          "coefficient": 0.5
+        },
+        {
+          "description": "Thesis is unclear or does not address the prompt.",
+          "coefficient": 0.25
+        }
+      ]
+    },
+    "Evidence": {
+      "points": 20,
+      "criteria": [
+        {
+          "description": "Includes at least 3 pieces of historical evidence related to the topic of the essay/prompt.",
+          "coefficient": 1.0
+        },
+        {
+          "description": "Includes 2 pieces of historical evidence related to the topic of the essay/prompt.",
+          "coefficient": 0.75
+        },
+        {
+          "description": "Includes 1 piece of historical evidence related to the topic of the essay/prompt.",
+          "coefficient": 0.5
+        },
+        {
+          "description": "No relevant historical evidence included.",
+          "coefficient": 0.25
+        }
+      ]
+    },
+    "Supports an Argument": {
+      "points": 20,
+      "criteria": [
+        {
+          "description": "Uses at least two additional historical examples to support a multi-part argument in response to the prompt.",
+          "coefficient": 1.0
+        },
+        {
+          "description": "Uses one historical example to support a multi-part argument, or two examples that are only loosely related to the argument.",
+          "coefficient": 0.75
+        },
+        {
+          "description": "Attempts to support the argument with historical examples, but they are poorly chosen or unclear.",
+          "coefficient": 0.5
+        },
+        {
+          "description": "Does not use historical examples to support the argument.",
+          "coefficient": 0.25
+        }
+      ]
+    },
+    "Historical Reasoning": {
+      "points": 20,
+      "criteria": [
+        {
+          "description": "Uses historical reasoning (Comparison, Causation, or CCOT) to frame an argument throughout multiple body paragraphs, with clear topic sentences addressing the prompt.",
+          "coefficient": 1.0
+        },
+        {
+          "description": "Uses historical reasoning, but it is inconsistent or only partially addresses the prompt through topic sentences or body paragraphs.",
+          "coefficient": 0.75
+        },
+        {
+          "description": "Attempts to use historical reasoning, but it lacks clarity or relevance to the argument and topic sentences.",
+          "coefficient": 0.5
+        },
+        {
+          "description": "No clear use of historical reasoning in framing the argument.",
+          "coefficient": 0.25
+        }
+      ]
+    }
+  }
+}
